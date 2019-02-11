@@ -5,7 +5,7 @@ crawlertitle: "Hello Jekyll !"
 summary: "첫 포스트"
 date: 2019-02-11 
 categories: posts
-tags: 'Any Story'
+tags: 'Any_Story'
 author: Young
 ---
 2일 동안 고된 구글링과 영어문서를 읽어가면서 드디어 jekyll 테마를 적용하여 나만에 블로그에 포스트를 작성할 수 있게 되었다. 사실 이전에도 도전해보았지만 이해안되는 영어문서와 온갖 에러에 ~~빠른 손절을~~ 포기를 하였지만 방학이 되면서 다시 해보기로 하여 끝내 블로그를 완성하였다.
