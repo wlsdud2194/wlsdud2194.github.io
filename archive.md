@@ -1,10 +1,10 @@
 ---
-bg: "bulbs.jpg"
+bg: "library.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"
 crawlertitle: "Young All articles"
-summary: "포스트 목록"
+summary: "포스트"
 active: archive
 ---
 
