@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Hello Jekyll !"
 crawlertitle: "Hello Jekyll !"
 summary: "첫 포스트"
 date: 2019-02-11 
 categories: posts
-tags: '담소'
+tags: 'Any Story'
 author: Young
 ---
 2일 동안 고된 구글링과 영어문서를 읽어가면서 드디어 jekyll 테마를 적용하여 나만에 블로그에 포스트를 작성할 수 있게 되었다. 사실 이전에도 도전해보았지만 이해안되는 영어문서와 온갖 에러에 ~~빠른 손절을~~ 포기를 하였지만 방학이 되면서 다시 해보기로 하여 끝내 블로그를 완성하였다.
@@ -36,11 +36,8 @@ Traceback (most recent call last):
 루비를 한번도 한적이 없었기 때문에 구글링에 의존해 검색을 해본 결과 생성한 프로잭트에서 요구하는 jekyll 버전과 현재 설치된 버전이 달라서 발생한 에러 였다. (구글 曰)
 
 bundler를 설치하여 해결할 수 있지만 이것 저것 설치하는 것은 맘에 들지 않았기 때문에 버전에 맞는 다른 테마를 이용하여 블로그를 완성하였다.
-
-
-
-
-
+<br/>
+<br/>
 #### 마치며
 
 앞으로 공부하면서 알게된 것과 프로젝트 하면서 알게된 것들을 주로 포스팅할 예정이다.
