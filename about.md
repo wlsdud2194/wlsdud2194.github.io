@@ -2,18 +2,18 @@
 bg: "owl.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "Young About"
 permalink: /about/
-summary: "About this blog"
+summary: "Hello World"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### 프로필
+ - 대구소프트웨어 고등학교 (소프트웨어 개발과) 재학 중
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+### 관심분야
+ - 웹 back-end 개발(Node.js)
+ - 머신러닝
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+### Plus +
+ - Github: <a href="https://github.com/wlsdud2194">https://github.com/wlsdud2194</a>
