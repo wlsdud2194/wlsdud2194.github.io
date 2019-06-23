@@ -6,7 +6,7 @@ crawlertitle: "RDBMS과 NoSQL"
 summary: "RDBMS과 NoSQL"
 date: 2019-05-01
 categories: posts
-tags : ['Story']
+tags : ['Tips']
 author: "Young"
 ---
 
